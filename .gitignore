@@ -43,3 +43,7 @@ Thumbs.db
 db.json
 public/
 .deploy*/
+
+# intellj idea
+.idea
+*.iml

@@ -1,0 +1,3 @@
+[submodule "posts/_posts"]
+	path = posts/_posts
+	url = https://github.com/soulteary/My-Blog-Posts.git
